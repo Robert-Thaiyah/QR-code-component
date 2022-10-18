@@ -24,7 +24,7 @@ This exercise was to create a QR code card using only HTML and CSS.
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/QR-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Livesite URL](https://robert-thaiyah.github.io/QR-code-component/)
 
 ## My process
 I took my time to practise using divs and learn how to arrange them properly in a sequence that can be easily readable and css added to the relevant parts.
